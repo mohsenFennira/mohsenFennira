@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsen Fennira</h1>
 <h3 align="center">A software engineer from Tunisia, constantly striving to further develop my skills and stay at the forefront of advancements.</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qP"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsenfennira&label=Profile%20views&color=0e75b6&style=flat" alt="mohsenfennira" /> </p>
 
