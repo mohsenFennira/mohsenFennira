@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsenfennira" alt="mohsenfennira" /></a> </p>
 
-- 🔭 I’m currently working on **MarketPlace Project**
+- 🔭 I’m currently working on **My own Project in my Startup 3 Eyes Solutions**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Microservices architecture**
 
 - 👨‍💻 All of my projects are available at [https://mohsen-portfolio.netlify.app/](https://mohsen-portfolio.netlify.app/)
 
-- 💬 Ask me about **Angular,Symfony,Spring**
+- 💬 Ask me about **Angular,Symfony,SpringBoot,Java,Dotnet,C#**
 
 - 📫 How to reach me **mohsen.fennira@esprit.tn**
 
