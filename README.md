@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsenfennira" alt="mohsenfennira" /></a> </p>
 
-- 🔭 I’m currently working on **MegaTransact LTD** in new Zealand
+- 🔭 I’m currently working on **MegaTransact LTD** in new Zealand - Remote
 
 - 🌱 I’m currently learning **Microservices architecture**
 
