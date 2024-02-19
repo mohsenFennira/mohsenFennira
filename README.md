@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **MegaTransact LTD** in new Zealand - Remote
 
-- 🌱 I’m currently learning **Microservices architecture**
+- 🌱 I’m currently learning **Clean architecture && Hexagonal Architecture**
   
 - 🌱This is my Second GitHub account  https://github.com/MohsenFenira --MegaTransact Email : mohsen@megatransact.com 
 
 - 👨‍💻 All of my projects are available at [https://mohsen-portfolio.netlify.app/](https://mohsen-portfolio.netlify.app/)
 
-- 💬 Ask me about **Angular,Symfony,SpringBoot,Java,Dotnet,C#**
+- 💬 Ask me about **Angular, SpringBoot,Java,Dotnet,C#** , **Architectures, Design Patterns** , **Diagram Design**,and **Git, Docker, K8S, AWS**.
 
 - 📫 How to reach me **mohsen.fennira@esprit.tn**
 
