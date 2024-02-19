@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MegaTransact LTD** in new Zealand - Remote
 
-- 🌱 I’m currently learning **Clean architecture && Hexagonal Architecture**
+- 🌱 I’m currently learning **Clean Architecture && Hexagonal Architecture**
   
 - 🌱This is my Second GitHub account  https://github.com/MohsenFenira --MegaTransact Email : mohsen@megatransact.com 
 
