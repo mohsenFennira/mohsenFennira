@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohsen Fennira</h1>
-<h3 align="center">A software engineer from Tunisia, constantly striving to further develop my skills and stay at the forefront of advancements.</h3>
+<h3 align="center">A software engineer && Marketer from Tunisia, Founder of Dawwerni in Tunisia and Egypt | Top Rated Seller on Fiverr | Based in Madinah, Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsenfennira&label=Profile%20views&color=0e75b6&style=flat" alt="mohsenfennira" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsenfennira" alt="mohsenfennira" /></a> </p>
 
-- 🔭 I’m currently working on **GNeurone Inc.** in Canada also I'm the Founder & CEO of **MVPNest**
+- 🔭 I’m currently working on **Saudia Arabia Startup** as CTO  also I'm the Founder & CEO of **MVPNest** and **Dawwerni**
 
 - 🌱 I’m currently building **MVP & SAAS Solutions**
   
